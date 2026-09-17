@@ -7,7 +7,7 @@ This repository contains implementations of various Reinforcement Learning algor
 1. Clone this repository
 
 ```bash
-git clone https://github.com/A-A7med-i/RL.git
+git clone https://github.com/A-Ahmed-i/RL.git
 ```
 
 2. Navigate to the project directory:
